@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 
 - 🎓 B.Tech in Artificial Intelligence & Data Science @ PSIT, Kanpur (2023–2027)
 - 💡 Skilled in bridging web development with ML models to build data-driven applications
-- 🔭 Currently building **[Trip Planner](https://github.com/anshika-2-tech/Trip-Planner)** — an AI-powered day-by-day itinerary generator
 - 🌱 Exploring generative AI and applied NLP
 - 🎯 Targeting roles in **AI/ML Development**, **Full-Stack Development**, and **Python Development**
 - 📫 Reach me at **singhanshika2404@gmail.com**
