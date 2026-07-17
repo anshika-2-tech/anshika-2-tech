@@ -84,17 +84,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anshika-2-tech&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika-2-tech&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshika-2-tech&theme=radical&hide_border=true" />
-</p>
-
 ---
 
 <p align="center"><i>Open to Software Developer / AI-ML opportunities — let's connect!</i></p>
